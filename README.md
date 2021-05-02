@@ -11,7 +11,7 @@ Screenshot:
 
 # Ayu Mirage
 
-file: **theme-ayu-mirage**
+file: **theme-ayu-mirage.js**
 
 Screenshot: 
 ![Ayu Mirage, ace editor theme, preview](screenshots/ayu-mirage.png)
