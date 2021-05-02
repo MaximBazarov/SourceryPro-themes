@@ -7,4 +7,11 @@ Themes for SourceryPro
 file: **theme-bazar.js**
 
 Screenshot: 
-![Bazar, ace editor theme, preview](bazar.png)
+![Bazar, ace editor theme, preview](screenshots/bazar.png)
+
+# Ayu Mirage
+
+file: **theme-ayu-mirage**
+
+Screenshot: 
+![Ayu Mirage, ace editor theme, preview](screenshots/ayu-mirage.png)
